@@ -1,3 +1,6 @@
-first ever mod I made in GLua.
-Claude helped me learn a lot but I didn't vibe code, well mostly. 
-vscode kinda autocompletes with their ai or sometihng
+this is my first ever addon created for garry's mod in glua.
+
+!drum toggle - toggles the "!drum spawn" command on/off for everyone.(requires any level of admin)
+!drum spawn - spawns a barrel where you're looking at
+!drum clear - clears out all of the barrels you spawned
+!drum wipe - wipes all barrels from the server, yours and player's(spawnmenu props excluded since update14){requires any level of admin}
