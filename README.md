@@ -1,6 +1,6 @@
 This is the very first Add-On I made for Garry's mod.
 
-<img width="966" height="684" alt="image" src="https://github.com/user-attachments/assets/dc3186d1-d861-4654-8dcd-3759f3b0551a" />
+<img width="512" height="512" alt="drummod" src="https://github.com/user-attachments/assets/d5bf10ae-76ff-41a1-95ae-b71f73efd173" />
 https://steamcommunity.com/sharedfiles/filedetails/?id=3818711180 << LINK
 
 Guide:
@@ -16,5 +16,7 @@ ________________________________________________________________________________
 for more mods like this gift me all of your points by giving me awards and like it thank you
 [HALF-MP TESTED TRY AT UR OWNRISK!!!] NOW WITH SOUND EFFECTS AND EXPLOSIONS AND FLOATING
 drum mod @xandlwithaz p.s. you dont need to subscribe to "the ability to read". it works fine without it, what you do NEED is...well...the ability to read
+<img width="107" height="23" alt="image" src="https://github.com/user-attachments/assets/b403edbf-6cca-4ed4-a796-b0be3a06f1eb" />
+
 
 
