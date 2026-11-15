@@ -17,11 +17,11 @@ ________________________________________________________________________________
 for more mods like this gift me all of your points by giving me awards and like it thank you
 [HALF-MP TESTED TRY AT UR OWNRISK!!!] NOW WITH SOUND EFFECTS AND EXPLOSIONS AND FLOATING
 drum mod @xandlwithaz p.s. you dont need to subscribe to "the ability to read". it works fine without it, what you do NEED is...well...the ability to read
-<img width="107" height="23" alt="image" src="https://github.com/user-attachments/assets/b403edbf-6cca-4ed4-a796-b0be3a06f1eb" />
+<img width="107" height="23" alt="image" src="https://github.com/user-attachments/assets/64bcbd82-6f6f-41b2-a34c-0e8ed63f5c80" />
 <a href="https://discord.com/users/396418301959471107">
-  <img src="<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/db471415-69b7-493e-bfec-ed533a7fa427" />
-" alt="Contact me on Discord" width="48">
+  <img src="discord.png" alt="contact me via discord" width="48">
 </a>
+
 
 
 
