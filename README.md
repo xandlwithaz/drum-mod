@@ -1,9 +1,20 @@
-this is my first ever addon created for garry's mod in glua.
+This is the very first Add-On I made for Garry's mod.
 
-!drum toggle - toggles the "!drum spawn" command on/off for everyone.(requires any level of admin)
+<img width="966" height="684" alt="image" src="https://github.com/user-attachments/assets/dc3186d1-d861-4654-8dcd-3759f3b0551a" />
+https://steamcommunity.com/sharedfiles/filedetails/?id=3818711180 << LINK
 
-!drum spawn - spawns a barrel where you're looking at
+Guide:
 
-!drum clear - clears out all of the barrels you spawned
+!drum toggle - disables/enables the mod(ADMIN ONLY!!!!)
 
-!drum wipe - wipes all barrels from the server, yours and player's(spawnmenu props excluded since update14){requires any level of admin}
+!drum spawn - well, you guessed it!(spawns a barrel at where youre looking at)
+
+!drum clear - clears all barrels from the map that YOU spawned, its like cleaning all in the operator tab but for barrels and for yourself only
+
+!drum wipe - WIPES all the barrels from the server, yours or not. LITERALLY operator clear tab but for barrels(requires admin)
+_____________________________________________________________________________________________________________________________________________________________
+for more mods like this gift me all of your points by giving me awards and like it thank you
+[HALF-MP TESTED TRY AT UR OWNRISK!!!] NOW WITH SOUND EFFECTS AND EXPLOSIONS AND FLOATING
+drum mod @xandlwithaz p.s. you dont need to subscribe to "the ability to read". it works fine without it, what you do NEED is...well...the ability to read
+
+
