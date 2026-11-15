@@ -3,15 +3,10 @@ net.Receive("barrelMessage", function()
     local hasCount = net.ReadBool()
     if hasCount then
         local count = net.ReadInt(32)
-        chat.AddText(Color(255, 255, 255), message, Color(255, 85, 85), tostring(count))
+        chat.AddText(Color(183, 223, 173), message, Color(255, 85, 85), tostring(count))
     else
-        chat.AddText(Color(255, 255, 255), message)
+        chat.AddText(Color(183, 223, 173), message)
     end
 end)
 
---[[
-
-clientsided bullshit!!!!!!!!!!!!!!!!!
-@xandlwithaz
-
-]]
+--@xandlwithaz(https://github.com/xandlwithaz/drum-mod)

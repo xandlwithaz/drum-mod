@@ -118,7 +118,4 @@ hook.Add("PlayerSay", "barrelWipe", function(ply, text, teamChat)
     end
 end)
 
---[[
-Drum Mod(Best Seller)
-@xandlwithaz
-]]
+--@xandlwithaz(https://github.com/xandlwithaz/drum-mod)
