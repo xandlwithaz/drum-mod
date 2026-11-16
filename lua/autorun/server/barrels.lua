@@ -88,6 +88,16 @@ local function wipeBarrel(ply)
     end
 end
 
+
+local function barrelHelp(ply)
+    sendBarrelMessage(ply, "available commands:")
+    sendBarrelMessage(ply, "!drum toggle - toggle drums on/off (admin only)")
+    sendBarrelMessage(ply, "!drum spawn - spawn a drum")
+    sendBarrelMessage(ply, "!drum clear - clear your spawned drums")
+    sendBarrelMessage(ply, "!drum wipe - wipe all spawned drums (admin only)")
+    sendBarrelMessage(ply, "!drum help - show this help message")
+end
+
 hook.Add("PlayerSay", "barrel", function(ply, text, teamChat)
     if string.lower(text) == "!drum toggle" then
         barrelSwitch(ply)
@@ -118,4 +128,15 @@ hook.Add("PlayerSay", "barrelWipe", function(ply, text, teamChat)
     end
 end)
 
---@xandlwithaz(https://github.com/xandlwithaz/drum-mod)
+hook.Add("PlayerSay", "barrelHelp", function(ply, text, teamChat)
+    if string.lower(text) == "!drum help" then
+        barrelHelp(ply)
+        return ""
+    end
+end)
+
+--[[
+@xandlwithaz
+https://github.com/xandlwithaz/drum-mod
+https://steamcommunity.com/sharedfiles/filedetails/?id=3818711180
+]]

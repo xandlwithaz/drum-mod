@@ -9,4 +9,8 @@ net.Receive("barrelMessage", function()
     end
 end)
 
---@xandlwithaz(https://github.com/xandlwithaz/drum-mod)
+--[[
+@xandlwithaz
+https://github.com/xandlwithaz/drum-mod
+https://steamcommunity.com/sharedfiles/filedetails/?id=3818711180
+]]
